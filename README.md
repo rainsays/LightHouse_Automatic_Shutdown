@@ -1,7 +1,7 @@
 # LightHouse_Automatic_Shutdown
 # 修改
 
-20210331- 改为支持多账户，自动检测多地域
+20210331- 改为支持多账户，自动检测多地域，不需要再配置region
 
 配置secret为：
 
