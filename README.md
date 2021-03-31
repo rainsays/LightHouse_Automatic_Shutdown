@@ -1,5 +1,28 @@
 # LightHouse_Automatic_Shutdown
+# 修改
+
+20210331- 改为支持多账户，自动检测多地域
+
+配置secret为：
+
+```
+SecretId #腾讯云api密钥ID 以逗号分隔
+
+SecretKey #腾讯云api密钥key 以逗号分隔
+
+tgBotUrl #TG酱url
+
+tgToken #TG酱token
+```
+
+AK 和 SK 顺序要对应
+
+
+
+# 原项目注释
+
 腾讯云轻量服务流量超出限制自动关机
+
 ## 使用方法
 
 ## 2021年03月30日更新
